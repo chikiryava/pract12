@@ -1,0 +1,11 @@
+C:\Users\st325l15\Desktop\shvets\pract12_Shvets\bin\Debug\pract12_Shvets.exe.config
+C:\Users\st325l15\Desktop\shvets\pract12_Shvets\bin\Debug\pract12_Shvets.exe
+C:\Users\st325l15\Desktop\shvets\pract12_Shvets\bin\Debug\pract12_Shvets.pdb
+C:\Users\st325l15\Desktop\shvets\pract12_Shvets\obj\Debug\pract12_Shvets.csproj.AssemblyReference.cache
+C:\Users\st325l15\Desktop\shvets\pract12_Shvets\obj\Debug\pract12_Shvets.csproj.SuggestedBindingRedirects.cache
+C:\Users\st325l15\Desktop\shvets\pract12_Shvets\obj\Debug\pract12_Shvets.Form1.resources
+C:\Users\st325l15\Desktop\shvets\pract12_Shvets\obj\Debug\pract12_Shvets.Properties.Resources.resources
+C:\Users\st325l15\Desktop\shvets\pract12_Shvets\obj\Debug\pract12_Shvets.csproj.GenerateResource.cache
+C:\Users\st325l15\Desktop\shvets\pract12_Shvets\obj\Debug\pract12_Shvets.csproj.CoreCompileInputs.cache
+C:\Users\st325l15\Desktop\shvets\pract12_Shvets\obj\Debug\pract12_Shvets.exe
+C:\Users\st325l15\Desktop\shvets\pract12_Shvets\obj\Debug\pract12_Shvets.pdb
